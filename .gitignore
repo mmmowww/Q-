@@ -2,3 +2,6 @@
 # phpstorm project files
 .idea
 /Debug
+/netcoreapp3.1
+/bin
+/obj
